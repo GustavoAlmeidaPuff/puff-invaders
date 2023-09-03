@@ -10,3 +10,5 @@
 * Se o alien ultrapassa sua nave: -1 ponto
 
 Um projeto bem simples para iniciantes em pygame :)
+
+para clonar para seu computador basta usar o comendo:    git clone https://github.com/GustavoAlmeidaPuff/puff-invaders/settings
