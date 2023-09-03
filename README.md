@@ -11,4 +11,4 @@
 
 Um projeto bem simples para iniciantes em pygame :)
 
-para clonar para seu computador basta usar o comendo:    git clone https://github.com/GustavoAlmeidaPuff/puff-invaders/settings
+para clonar para seu computador basta usar o comando:    git clone https://github.com/GustavoAlmeidaPuff/puff-invaders/settings
